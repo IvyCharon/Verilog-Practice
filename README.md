@@ -1,6 +1,10 @@
 # Verilog小作业
 
-参考网站：https://hdlbits.01xz.net/wiki/Main_Page
+参考网站：
+
+https://hdlbits.01xz.net/wiki/Main_Page
+
+https://www.runoob.com/w3cnote/verilog-tutorial.html
 
 ### 作业目的
 
@@ -44,6 +48,14 @@ Verilog是第二学年第一学期的CPU大作业所使用的语言。Verilog作
 要求提前安装好 `brew`
 
 下载指令： `brew install icarus-verilog`
+
+**Windows**
+
+下载，http://bleyer.org/icarus/iverilog-v11-20201123-x64_setup.exe 或 https://jbox.sjtu.edu.cn/l/dFFHFl 
+
+一路下一步，选中Add executable folder to the user PATH.
+
+<img src = "https://staticcdn.boyuai.com/user-assets/9557/mK3NHDPvLHK5qgAEK9ih3q/verilog.png!png" style = "zoom:100%">
 
 ### 运行Verilog代码
 
