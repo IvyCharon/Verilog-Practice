@@ -22,7 +22,7 @@ Verilog是第二学年第一学期的CPU大作业所使用的语言。Verilog作
 
 2. `1250 Add Test`：完成 `add.v` 中的 Add 模块，实现一个简单的 int 加法器并提交 `add.v`
 
-3. `1251 Module Test`：学习模块调用，完成 `module_test.v` 中的 `module_test` 模块并提交 `module_test.v`
+3. `1251 Module Test`：学习模块调用，完成 `module_p.v` 中的 `module_p` 模块并提交 `module_test.v`
 
 4. `1252 Zero Delay Oscillation`：完成 `zdo.v` 中的模块，实现一个零延时震荡
 
