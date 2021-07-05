@@ -6,7 +6,7 @@ module Add (
     output reg [31:0] sum
 );
     // TO DO
-    // use ~, !, |, & to implement an 32-bits adder
+    // use ^, !, ~, & to implement an 32-bits adder
     // If the digits overflow, discard the overflow digits directly
 
 endmodule

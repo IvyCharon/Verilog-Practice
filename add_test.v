@@ -10,11 +10,10 @@
 module top_module();
     reg [31:0]in0;
     reg [31:0]in1;
-    wire clk;
     wire [31:0]sum;
     initial begin
-        assign in0 = 100'd1;
-        assign in1 = 100'd2;
+        assign in0 = 32'd1;
+        assign in1 = 32'd2;
     end
     Add a(
         .a          (in0),
